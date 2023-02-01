@@ -1,5 +1,5 @@
 # Portfolio
-This is a small project using HTML / CSS / and Bootstrap. I will be using this to show case my projects.
+This is a small project using HTML / CSS / and Bootstrap. I will be using this to showcase my projects.
 
 
 [Live Heruku Deployment](https://vita-portfolio.herokuapp.com/)
